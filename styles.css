@@ -1,0 +1,47 @@
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  margin: 20px;
+}
+
+h1 {
+  font-size: 24px;
+  color: #000;
+}
+
+.green {
+  color: green;
+}
+
+.red {
+  color: red;
+}
+
+.blue {
+  color: blue;
+}
+
+.highlight {
+  color: red;
+  font-weight: bold;
+}
+
+.external-link img {
+  vertical-align: middle;
+  margin-right: 5px;
+  width: 16px;
+  height: 16px;
+}
+
+a {
+  color: blue;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.italic {
+  font-style: italic;
+}
